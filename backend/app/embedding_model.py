@@ -1,7 +1,7 @@
 import os
 import torch
 
-from langchain_community.embeddings import HuggingFaceEmbeddings
+from langchain_huggingface import HuggingFaceEmbeddings
 from config import CONFIG
 
 
