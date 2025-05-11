@@ -16,3 +16,4 @@ groq
 pydantic
 uvicorn
 pinecone
+langchain-huggingface
